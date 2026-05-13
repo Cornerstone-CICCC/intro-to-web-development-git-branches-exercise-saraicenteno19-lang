@@ -1,1 +1,1 @@
-This file contains information about the project.
+This project was updated in feature-update-about branch.
